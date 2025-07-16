@@ -97,9 +97,9 @@ The dataset contains credit card transactions with:
 - Create synthetic fraud cases for better training
 
 ## Author
-[Harshraj Chavda] 
-[harshchavda439@gmail.com]  
-[@HarshSanatani]
+Harshraj Chavda 
+harshchavda439@gmail.com
+@HarshSanatani
 
 ## License
 This project is available under the MIT License.
